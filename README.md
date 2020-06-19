@@ -35,4 +35,7 @@ Collective attemtps at faster biomedical imaging reconstruction.
 ***
 ### Plans:
 - Convert the rest of the Matlab code which was found in these two presentations: https://www.msri.org/people/20822
+- Work out the problems with Dask for the Radon transform and back projection functions
+- Merge the Numba and Dask libraries for even faster use
+- Use Numba for GPU execution through Google Collaboratory
 - Further explain the Radon transform and back projection
