@@ -1,5 +1,5 @@
 # faster_med_imaging
-Collective attemtps at faster biomedical imaging reconstruction.
+Collective attemtps at faster biomedical imaging reconstruction using Python, etc.
 
 ***
 ### Current Times of Functions (Using CPU):
