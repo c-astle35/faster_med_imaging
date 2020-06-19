@@ -26,7 +26,8 @@ Collective attemtps at faster biomedical imaging reconstruction.
 
 #### Code, Programming, Etc.
 - Pro Git Book: https://git-scm.com/book/en/v2
-- Hitchhiker's Guide to Python: https://docs.python-guide.org/
+- Hitchhiker's Guide to Python: https://docs.python-guide.org
+- A Python Book: https://www.davekuhlman.org/python_book_01.pdf
 
 #### Math:
 - Saving Lives: The Mathematics of Tomography: https://plus.maths.org/content/saving-lives-mathematics-tomography
