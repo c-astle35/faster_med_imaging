@@ -7,8 +7,8 @@ Collective attemtps at faster biomedical imaging reconstruction.
   + Back Projection: ~ 2.5 Seconds
 
 - Radon_backproj.py:
-  + Radon Transform: ~ 
-  + Back Projection: ~ 
+  + Radon Transform: ~ 62 Seconds
+  + Back Projection: ~ 2.1 Seconds
 
 ### Current Resources Being Used:
 - Example Code of Using Numba and Dask to Compute Pi: https://gist.github.com/jhidding/e08c3096b5c54bf2138ca248625de029
@@ -23,3 +23,4 @@ Collective attemtps at faster biomedical imaging reconstruction.
 ### Plans
 - Convert the rest of the Matlab code which was found in these two presentations: https://www.msri.org/people/20822
 - Further explain the Radon transform and back projection
+https://plus.maths.org/content/saving-lives-mathematics-tomography
