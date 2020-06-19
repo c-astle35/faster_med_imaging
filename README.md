@@ -16,6 +16,7 @@ Collective attemtps at faster biomedical imaging reconstruction.
 - Numba Documentation (General): http://numba.pydata.org/
 - Numba for CUDA GPUs: https://numba.pydata.org/numba-doc/dev/cuda/index.html
 - CUDA C Programming Guide: https://docs.nvidia.com/cuda/cuda-c-programming-guide/
+- Google Collaboratory: https://colab.research.google.com/notebooks/welcome.ipynb?authuser=1https://colab.research.google.com/notebooks/welcome.ipynb?authuser=1
 - Matthew Rocklin's Blog (One of the Lead Builders and Maintainers of Dask): http://matthewrocklin.com/blog/
 - Numpy for MATLAB Users: http://mathesaurus.sourceforge.net/matlab-numpy.html
 - Saving Lives: The Mathematics of Tomography: https://plus.maths.org/content/saving-lives-mathematics-tomography
