@@ -1,7 +1,7 @@
 # faster_med_imaging
 Collective attemtps at faster biomedical imaging reconstruction.
 
-### Current Times of Functions (Using CPU)
+### Current Times of Functions (Using CPU):
 - fastRadon.py:
   + Radon Transform: ~ 22 Seconds
   + Back Projection: ~ 2.5 Seconds
@@ -20,7 +20,7 @@ Collective attemtps at faster biomedical imaging reconstruction.
 - Numpy for MATLAB Users: http://mathesaurus.sourceforge.net/matlab-numpy.html
 - Saving Lives: The Mathematics of Tomography: https://plus.maths.org/content/saving-lives-mathematics-tomography
 
-### Plans
+### Plans:
 - Convert the rest of the Matlab code which was found in these two presentations: https://www.msri.org/people/20822
 - Further explain the Radon transform and back projection
 https://plus.maths.org/content/saving-lives-mathematics-tomography
