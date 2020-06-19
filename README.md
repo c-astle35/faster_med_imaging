@@ -3,10 +3,12 @@ Collective attemtps at faster biomedical imaging reconstruction.
 
 ### Current Times of Functions (Using CPU)
 - fastRadon.py:
-  + Radon Transform: ~
-  + Back Projection: ~
+  + Radon Transform: ~ 22 Seconds
+  + Back Projection: ~ 2.5 Seconds
 
-- Radon_projection.py
+- Radon_backproj.py:
+  + Radon Transform: ~ 
+  + Back Projection: ~ 
 
 ### Current Resources Being Used:
 - Example Code of Using Numba and Dask to Compute Pi: https://gist.github.com/jhidding/e08c3096b5c54bf2138ca248625de029
