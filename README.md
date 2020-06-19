@@ -14,13 +14,16 @@ Collective attemtps at faster biomedical imaging reconstruction.
 
 #### Dask and Numba:
 - Example Code of Using Numba and Dask to Compute Pi: https://gist.github.com/jhidding/e08c3096b5c54bf2138ca248625de029
+
 - Dask Documentation: https://docs.dask.org/en/latest/
 - Matthew Rocklin's Blog (One of the Lead Builders and Maintainers of Dask): http://matthewrocklin.com/blog/
+- Numpy for MATLAB Users: http://mathesaurus.sourceforge.net/matlab-numpy.htmlhttps://docs.python-guide.org/
+
 - Numba Documentation (General): http://numba.pydata.org/
 - Numba for CUDA GPUs: https://numba.pydata.org/numba-doc/dev/cuda/index.html
 - CUDA C Programming Guide: https://docs.nvidia.com/cuda/cuda-c-programming-guide/
 - Google Collaboratory: https://colab.research.google.com/notebooks/welcome.ipynb?authuser=1https://colab.research.google.com/notebooks/welcome.ipynb?authuser=1
-- Numpy for MATLAB Users: http://mathesaurus.sourceforge.net/matlab-numpy.htmlhttps://docs.python-guide.org/
+
 
 #### Code, Programming, Etc.
 - Pro Git Book: https://git-scm.com/book/en/v2
