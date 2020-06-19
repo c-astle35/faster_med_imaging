@@ -24,4 +24,3 @@ Collective attemtps at faster biomedical imaging reconstruction.
 ### Plans:
 - Convert the rest of the Matlab code which was found in these two presentations: https://www.msri.org/people/20822
 - Further explain the Radon transform and back projection
-https://plus.maths.org/content/saving-lives-mathematics-tomography
