@@ -1,6 +1,13 @@
 # faster_med_imaging
 Collective attemtps at faster biomedical imaging reconstruction.
 
+### Current Times of Functions (Using CPU)
+- fastRadon.py:
+  + Radon Transform: ~
+  + Back Projection: ~
+
+- Radon_projection.py
+
 ### Current Resources Being Used:
 - Example Code of Using Numba and Dask to Compute Pi: https://gist.github.com/jhidding/e08c3096b5c54bf2138ca248625de029
 - Dask Documentation: https://docs.dask.org/en/latest/
